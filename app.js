@@ -44,14 +44,6 @@ function sortearAmigo()  {
 
 }
 
-
-
-/*function limpiarTexto() {
-    let limpiarTexto = document.getElementById('amigo');
-    limpiarTexto.value = '';
-
-}*/
-
 asignarTexto('h1', 'Juego del Amigo Secreto');
 asignarTexto('h2', 'ingresa los nombres de tus amigos');
 
