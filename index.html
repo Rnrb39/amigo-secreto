@@ -21,17 +21,18 @@
             <h2 class="section-title"></h2>
             <div class="input-wrapper">
                 <input type="text" id="amigo" class="input-name" placeholder="Escribe un nombre">
-                <button class="button-add" onclick="agregarAmigo();">Añadir</button>
+                <button id="agregar" class="button-add" onclick="agregarAmigo();">Añadir</button>
             </div>
             
-            <ul id="listaAmigos" class="name-list" aria-labelledby="listaAmigos" role="list"></ul>
+            <ul id="listaAmigos" class="name-list" aria-labelledby="listaAmigos" role="icono-list"></ul>
             <ul id="resultado" class="result-list" aria-live="polite"></ul>
 
             <div class="button-container">
-                <button class="button-draw" onclick="sortearAmigo()" aria-label="Sortear amigo secreto">
+                <button id="botonSorteo" class="button-draw" onclick="sortearAmigo()" aria-label="Sortear amigo secreto" disabled>
                     <img src="img\spin.gif" alt="Ícono para sortear">
-                    Sortear amigo
+                    Sortear amigo 
                 </button>
+                <button id="reiniciarJuego" class="button-container" onclick="reiniciarJuego()">Reiniciar Juego</button>
             </div>
         </section>
     </main>
