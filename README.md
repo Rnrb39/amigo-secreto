@@ -25,7 +25,7 @@
 <li>Cada persona recibirá el nombre de su amigo secreto asignado al azar.</li>
 
 <h2>📜 Licencia</h2>
-
+ 
 Este proyecto está abierto a modificaciones y mejoras por la comunidad.
 
 
