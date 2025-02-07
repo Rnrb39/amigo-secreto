@@ -4,7 +4,7 @@
 
 <h2>🚀 Descripción</h2>
 
-<p>El juego del amigo secreto permite ingresar nombres de amigos y, mediante un sorteo automatizado, asigna un nombre a cada participante. Es ideal para celebraciones y eventos donde se quiera realizar el intercambio de regalos de manera justa y divertida.</p>
+<p>El juego del amigo secreto permite ingresar nombres de amigos y, mediante un sorteo automatizado de forma aleatoria asigna un nombre al particitpante que corresponde a su amigo secreto. Es ideal para celebraciones y eventos donde se quiera realizar el intercambio de regalos de manera justa y divertida.</p>
 
 <h2>🛠️ Tecnologías Utilizadas</h2>
 
